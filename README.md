@@ -19,4 +19,4 @@ The Jupyter Notebook indicates a methodical approach involving data preprocessin
 
 ## Conclusion
 
-The project would present findings on the effectiveness of various machine learning models in classifying EEG data for seizure recognition. This could include model accuracy, precision and recall. The conclusion section would likely summarize the key insights gained, the performance of the models, and potential areas for further research or improvement in seizure detection using EEG data.
+The project presents findings on the effectiveness of various machine learning models in classifying EEG data for seizure recognition. This includes model accuracy, precision and recall. The conclusion section summarizes the key insights gained, the performance of the models, and potential areas for further research and improvement in seizure detection using EEG data.
